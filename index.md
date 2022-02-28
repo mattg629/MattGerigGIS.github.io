@@ -14,7 +14,7 @@
 
 ### Traditional Maps
 
-[Analysis Of Chatham County Homes For Potential Of Flooding During An Event](/sample_page)
+[Analysis Of Chatham County Homes For Potential Of Flooding During An Event](/images/Flood Zone Household Request.pdf)
 <img src="images/Flood Zone Household Request.pdf"/>
 
 ---
