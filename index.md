@@ -29,7 +29,7 @@
 [New Fire Station Analysis](/pdf/NewFireResponseAreaMap05JAN18.pdf)
 <img src="images/NewFireResponseAreaMap05JAN181646057493.jpg?raw=true"/>
 ---
-[Unauthorized Fill Of Protected Lands Analysis](/pdf/JohnsonDavis.pdf)
+[Land Use Map](/pdf/JohnsonDavis.pdf)
 <img src="images/JohnsonDavis1646057578.jpg?raw=true"/>
 
 
