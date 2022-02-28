@@ -5,7 +5,7 @@
 ### Web Pages 
 
 - [GIS Story Map On Environmental Justice](https://storymaps.arcgis.com/stories/71792d68234f4f00982a97158a12d2a9)
-- [Project 2 Title](http://example.com/)
+- [GIS Story Map On The Historical Grand Prix](https://storymaps.arcgis.com/stories/b1fca75c63e944f8979bdfc74952f26a)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
