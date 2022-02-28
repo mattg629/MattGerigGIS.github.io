@@ -8,7 +8,6 @@
 - [GIS Story Map On The Historical Grand Prix](https://storymaps.arcgis.com/stories/b1fca75c63e944f8979bdfc74952f26a)
 - [QGIS Open Source Web Page Of International Airports](https://ogeecheedigitaldataservices.s3.amazonaws.com/qgis2web_2022_02_23-15_25_52_075139/index.html#2/22.1/-12.7/)
 - [Multi-Jurisdictional Infrastructure Projects](https://storymaps.arcgis.com/stories/8fce016e3ccb4980b0d726af2a71f99a)
-- [Project 5 Title](http://example.com/)
 
 ---
 
