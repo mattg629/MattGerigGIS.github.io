@@ -23,12 +23,16 @@
 
 ---
 
+[Proposed Fire Station Analysis](/pdf/BeaufortFDNewStation.pdf)
+<img src="images/BeaufortFDNewStation1646073262.jpg?raw=true"/>
+
+---
 [Unauthorized Fill Of Protected Lands Analysis](/pdf/SouthHarbor.pdf)
 <img src="images/SouthHarbor1646056836.jpg?raw=true"/>
 
 ---
 
-[New Fire Station Analysis](/pdf/NewFireResponseAreaMap05JAN18.pdf)
+[Fire Station Response Zones](/pdf/NewFireResponseAreaMap05JAN18.pdf)
 <img src="images/NewFireResponseAreaMap05JAN181646057493.jpg?raw=true"/>
 
 ---
