@@ -15,7 +15,7 @@
 ### Traditional Maps
 
 [Analysis Of Chatham County Homes](/pdf/FloodZoneHouseholdRequest.pdf)
-<img src="pdf/FloodZoneHouseholdRequest.pdf?raw=true"/>
+<img src="images/FloodZoneHouseholdRequest1646055826.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
