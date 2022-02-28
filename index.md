@@ -22,8 +22,8 @@
 <img src="images/ReconstructionEraNationalMonument1646056537.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Unauthorized Fill Of Protected Lands Analysis](/pdf/SouthHarbor.pdf)
+<img src="images/SouthHarbor1646056836.jpg?raw=true"/>
 
 ---
 
