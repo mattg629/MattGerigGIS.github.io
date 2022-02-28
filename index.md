@@ -4,7 +4,7 @@
 
 ### Web Pages 
 
-- [Project 1 Title](http://example.com/)
+- [GIS Story Map On Environmental Justice](https://storymaps.arcgis.com/stories/71792d68234f4f00982a97158a12d2a9)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
