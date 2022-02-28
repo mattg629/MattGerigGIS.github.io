@@ -1,11 +1,11 @@
-## Portfolio
+## Matt's Geospatial Jams
 
 ---
 
-### Category Name 1 
+### Web Pages 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Open Source Web Map](/sample_page)
+<img src="https://ogeecheedigitaldataservices.s3.amazonaws.com/qgis2web_2022_02_23-15_25_52_075139/index.html#2/22.1/-12.7"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Traditional Maps
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
