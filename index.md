@@ -18,8 +18,8 @@
 <img src="images/FloodZoneHouseholdRequest1646055826.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Reconstruction Era National Monument](/images/ReconstructionEraNationalMonument.jpg)
+<img src="images/ReconstructionEraNationalMonument1646056537.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
