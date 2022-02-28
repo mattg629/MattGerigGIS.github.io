@@ -4,6 +4,16 @@
 
 ### Web Pages 
 
+- [Project 1 Title](http://example.com/)
+- [Project 2 Title](http://example.com/)
+- [Project 3 Title](http://example.com/)
+- [Project 4 Title](http://example.com/)
+- [Project 5 Title](http://example.com/)
+
+---
+
+### Traditional Maps
+
 [Open Source Web Map](/sample_page)
 <img src="https://ogeecheedigitaldataservices.s3.amazonaws.com/qgis2web_2022_02_23-15_25_52_075139/index.html#2/22.1/-12.7"/>
 
@@ -14,16 +24,6 @@
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Traditional Maps
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
