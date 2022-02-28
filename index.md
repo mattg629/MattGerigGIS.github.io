@@ -14,8 +14,8 @@
 
 ### Traditional Maps
 
-[Open Source Web Map](/sample_page)
-<img src="https://ogeecheedigitaldataservices.s3.amazonaws.com/qgis2web_2022_02_23-15_25_52_075139/index.html#2/22.1/-12.7"/>
+[Analysis Of Chatham County Homes For Potential Of Flooding During An Event](/sample_page)
+<img src="images/Flood Zone Household Request.pdf"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
